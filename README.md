@@ -31,7 +31,7 @@ pip install requests beautifulsoup4 pandas
 1. Clone or download this repository.
 2. Run the script using:
    ```sh
-   python script.py
+   python Flipkart_Scrapping.py
    ```
 3. The extracted data will be saved in `flipkart_shoes.csv`.
 
