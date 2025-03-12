@@ -5,7 +5,7 @@ from bs4 import BeautifulSoup
 headers = {"User-Agent": "Mozilla/5.0"}
 base_url = "https://www.flipkart.com/search?q=shoes&otracker=search&otracker1=search&marketplace=FLIPKART&as-show=on&as=off&page="
 
-max_pages = 50 #change the range to how many pages you want 
+max_pages = 50 #change the range to how many pages you want to scrap 
 product_number = 1  
 data = []
 
